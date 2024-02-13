@@ -7,7 +7,8 @@ This tool is designed to provide a seamless experience for users who need to rem
 - **Intuitive User Interface:** PDFUnlocker boasts a clean and straightforward user interface, making it easy for both novice and experienced users to navigate and unlock PDF files.
 
 - **Password Removal:** Effortlessly remove passwords from password-protected PDF files with just a few clicks, saving you time and eliminating the need for complex procedures.
-
+## Demo
+![demo]https://raw.githubusercontent.com/ukmihiran/PDFUnlocker/master/PDFUnlocker.png
 ## Getting Started
 
 1. **Download:** Clone or download the repository to your local machine.
